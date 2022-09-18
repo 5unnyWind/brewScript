@@ -32,16 +32,13 @@ source ~/.zshrc
 
 
 
-
+brew install node
 brew install --cask microsoft-edge
 brew install --cask baidunetdisk
-brew install --cask iterm2
-brew install node
 brew install --cask utools
 brew install --cask visual-studio-code
-brew install docker
-brew install docker-compose
-brew install termius
+brew install --cask docker
+brew install --cask termius
 brew install --cask qqmusic
 brew install --cask feishu
 brew install --cask tencent-lemon
