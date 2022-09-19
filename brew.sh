@@ -33,6 +33,7 @@ source ~/.zshrc
 
 
 brew install node
+brew install yarn
 brew install --cask microsoft-edge
 brew install --cask baidunetdisk
 brew install --cask utools
